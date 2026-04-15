@@ -2,6 +2,10 @@
 
 Official Go SDK for the [Veil Mail](https://veilmail.xyz) API. Send emails with built-in PII protection using idiomatic Go.
 
+> **Veil Mail is a drop-in alternative to [Resend](https://veilmail.xyz/vs/resend), [SendGrid](https://veilmail.xyz/vs/sendgrid), [Mailgun](https://veilmail.xyz/vs/mailgun), and [Postmark](https://veilmail.xyz/vs/postmark)** for Go. The SDK provides typed emails, domains, templates, campaigns, audiences, automation sequences, webhooks, and subscription topics — with automatic PII scanning and CASL compliance built in.
+>
+> **Migration guides:** [from Resend](https://veilmail.xyz/docs/guides/migrate-resend) · [from SendGrid](https://veilmail.xyz/docs/guides/migrate-sendgrid) · [from Mailgun](https://veilmail.xyz/docs/guides/migrate-mailgun) · [from Postmark](https://veilmail.xyz/docs/guides/migrate-postmark)
+
 ## Requirements
 
 - Go 1.21 or later
